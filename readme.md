@@ -66,7 +66,7 @@ Bounding-box coordinates are normalized relative to image dimensions.
 
 GrassLiv-3 is hosted on **Hugging Face**.
 
-**Dataset Repository:** [GrassLiv-3 on Hugging Face](YOUR_HUGGINGFACE_DATASET_URL)
+**Dataset Repository:** [GrassLiv-3 on Hugging Face](https://huggingface.co/datasets/sunshineofyou/GrassLiv-3)
 
 The dataset is distributed through a gated-access repository. Researchers interested in accessing the complete dataset should submit an access request through Hugging Face.
 
